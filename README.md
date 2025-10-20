@@ -8,13 +8,15 @@ This toolkit integrates multiple AI models that work together to explore Arabic 
 
 ## Project Structure
 
+```bash
 Arabic-Poetry-AI-Toolkit/
-├── 1_Meter_Classification/ # Classifies Arabic poetry meters using ML
-├── 2_Audio_Enhancement/ # Enhances noisy poetry audio using U-Net
-├── 3_Poetry_Generation/ # Generates new Arabic verses using Markovify
-├── 4_Speaker_Identification/ # Identifies speaker voice from recordings
-├── 5_Deploy_App/ # Flask backend for model deployment
-└── 6_Web_Interface_HTML/ # Web interface (HTML/CSS/JS)
+├── 1_Meter_Classification/      # Classifies Arabic poetry meters using ML
+├── 2_Audio_Enhancement/         # Enhances noisy poetry audio using U-Net
+├── 3_Poetry_Generation/         # Generates new Arabic verses using Markovify
+├── 4_Speaker_Identification/    # Identifies speaker voice from recordings
+├── 5_Deploy_App/                # Flask backend for model deployment
+└── 6_Web_Interface_HTML/        # Web interface (HTML/CSS/JS)
+```
 
 ---
 
