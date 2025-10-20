@@ -1,0 +1,28 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore data and model files
+*.pkl
+*.h5
+*.chkpt
+*.pth
+
+# Ignore compressed files
+*.zip
+*.tar.gz
+
+# Ignore environments and system files
+.env
+venv/
+.env/
+.DS_Store
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore dataset folders
+data/
+dataset/
+models/
